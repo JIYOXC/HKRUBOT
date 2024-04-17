@@ -22,7 +22,7 @@ gpytranslate
 gtts
 telegraph
 pyromod==1.1
-openai
+openai==0.28
 youtube-search-python
 pymongo
 yt-dlp
