@@ -10,8 +10,8 @@ async def start_ubot(user_id, _ubot):
     try:
         await asyncio.wait_for(ubot_.start(), timeout=30)
         await ubot_.join_chat("AlterBaseChat")
-        await ubot_.join_chat("iTelegramStore")
-        await ubot_.join_chat("iTelegramid")
+        await ubot_.join_chat("hikaruDimari")
+        await ubot_.join_chat("aiu_support")
     except asyncio.TimeoutError:
         await remove_ubot(user_id)
         await add_prem(user_id)
