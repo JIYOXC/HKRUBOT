@@ -1,10 +1,3 @@
-# Copas Teriak Copas MONYET
-# Gay Teriak Gay Anjeng
-# @Rizzvbss | @Kenapanan
-# Kok Bacot
-# © @KynanSupport
-# FULL MONGO NIH JING FIX MULTI CLIENT
-
 
 from asyncio import sleep
 from contextlib import suppress
@@ -31,10 +24,10 @@ HELP = f"""
 ๏ Perintah: <code>stopvc</code>
 ◉ Penjelasan: Untuk mengakhiri voice chat grup.
            
-๏ Perintah: <code>naik</code>
+๏ Perintah: <code>joinvc</code>
 ◉ Penjelasan: Untuk bergabung voice chat grup.
 
-๏ Perintah: <code>turun</code>
+๏ Perintah: <code>leavevc</code>
 ◉ Penjelasan: Untuk meninggalkan voice chat grup.
 """
 
@@ -75,7 +68,7 @@ def get_list():
     return msg
 
 
-@MIKO.UBOT("naik", sudo=True)
+@MIKO.UBOT("joinvc", sudo=True)
 @MIKO.TOP_CMD
 async def _(client, message):
     chat_id = message.command[1] if len(message.command) > 1 else message.chat.id
@@ -90,7 +83,7 @@ async def _(client, message):
     add_list(client.me.id, text)
 
 
-@MIKO.UBOT("turun", sudo=True)
+@MIKO.UBOT("leavevc", sudo=True)
 @MIKO.TOP_CMD
 async def _(client, message):
     try:
