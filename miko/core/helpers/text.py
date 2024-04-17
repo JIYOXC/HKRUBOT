@@ -40,11 +40,11 @@ Dengan @{bot.me.username} nda dapat membuat userbot Telegram dengan mudah dan ce
         return f"""
 <b>💬 sɪʟᴀʜᴋᴀɴ ᴍᴇʟᴀᴋᴜᴋᴀɴ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ</b>
 
-<b>🎟️ ʜᴀʀɢᴀ ᴘᴇʀʙᴜʟᴀɴ: {harga}.25000</b>
+<b>🎟️ ʜᴀʀɢᴀ ᴘᴇʀʙᴜʟᴀɴ: {harga}.30000</b>
 
 <b>💳 ᴍᴏᴛᴏᴅᴇ ᴘᴇᴍʙᴀʏᴀʀᴀɴ:</b>
  <b>├──• ᴅᴀɴᴀ </b>
- <b>├─• <code>‪087815253955</code></b>
+ <b>├─• <code>‪085156303908</code></b>
  <b>└──• <a href=>ᴋʟɪᴋ ᴅɪsɪɴɪ</a></b>
 
 <b>🔖 ᴛᴏᴛᴀʟ ʜᴀʀɢᴀ: ʀᴘ {total}.000</b>
@@ -74,7 +74,7 @@ Dengan @{bot.me.username} nda dapat membuat userbot Telegram dengan mudah dan ce
 🆘 ᴅᴜᴋᴜɴɢᴀɴ
 ᴜɴᴛᴜᴋ ᴍᴇɴᴅᴀᴘᴀᴛᴋᴀɴ ᴅᴜᴋᴜɴɢᴀɴ, ᴀɴᴅᴀ ᴅᴀᴘᴀᴛ:
 • ᴍᴇɴɢʜᴜʙᴜɴɢɪ ᴀᴅᴍɪɴ ᴅɪʙᴀᴡᴀʜ ɪɴɪ
-• sᴜᴘᴘᴏʀᴛ @AlterBaseChat ᴅɪ ᴛᴇʟᴇɢʀᴀᴍ
+• sᴜᴘᴘᴏʀᴛ @HIKARUDIMARI ᴅɪ ᴛᴇʟᴇɢʀᴀᴍ
 
 👉🏻 ᴛᴇᴋᴀɴ ᴛᴏᴍʙᴏʟ ʟᴀɴᴊᴜᴛᴋᴀɴ ᴜɴᴛᴜᴋ ᴍᴇɴʏᴀᴛᴀᴋᴀɴ ʙᴀʜᴡᴀ ᴀɴᴅᴀ ᴛᴇʟᴀʜ 
 ᴍᴇᴍʙᴀᴄᴀ ᴅᴀɴ ᴍᴇɴᴇʀɪᴍᴀ ᴋᴇᴛᴇɴᴛᴜᴀɴ ɪɴɪ ᴅᴀɴ ᴍᴇʟᴀɴᴊᴜᴛᴋᴀɴ 
