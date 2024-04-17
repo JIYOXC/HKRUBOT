@@ -35,7 +35,7 @@ logger.addHandler(connection_handler)
 
 class Bot(Client):
     def __init__(self, **kwargs):
-        super().__init__(**kwargs, device_model="ᴍɪᴋᴏ ᴜʙᴏᴛ")
+        super().__init__(**kwargs, device_model="ʜɪᴋᴀʀᴜ ᴜʙᴏᴛ")
 
     def on_message(self, filters=None, group=-1):
         def decorator(func):
@@ -63,7 +63,7 @@ class Ubot(Client):
     _get_my_peer = {}
 
     def __init__(self, **kwargs):
-        super().__init__(**kwargs, device_model="ᴍɪᴋᴏ ᴜʙᴏᴛ")
+        super().__init__(**kwargs, device_model="ʜɪᴋᴀʀᴜ ᴜʙᴏᴛ")
         self.group_call = GroupCallFactory(self).get_group_call()
 
     def on_message(self, filters=None, group=-1):
@@ -144,7 +144,7 @@ bot = Bot(
     bot_token=BOT_TOKEN,
 )
 
-ubot = Ubot(name="MIKOUBOT")
+ubot = Ubot(name="HKR_UBOT")
 
 
 from miko.core.database import *
