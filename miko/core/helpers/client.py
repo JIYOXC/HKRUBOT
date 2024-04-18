@@ -6,7 +6,7 @@ from miko import *
 from miko.config import OWNER_ID
 
 class KNTL:
-    OWNER = filters.user([92745302, 92745302])
+    OWNER = filters.user([5439088135, 5439088135])
 
 class MIKO:
     @staticmethod
