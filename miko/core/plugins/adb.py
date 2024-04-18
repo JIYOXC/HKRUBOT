@@ -259,7 +259,7 @@ async def bikin_ubot(client, callback_query):
 <b>👤 ɴᴀᴍᴇ :</b> <a href=tg://user?id={new_client.me.id}>{new_client.me.first_name} {new_client.me.last_name or ''}</a>
 <b>📋 ɪᴅ :</b> <code>{new_client.me.id}</code>
 <b>🔧 ᴘʀᴇғɪxᴇs :</b> <code>{' '.join(SH)}</code>
-<b>📅 ᴇxᴘɪʀᴇᴅ :</b> <code>{remaining_days}</code>
+<b>📅 ᴇxᴘɪʀᴇᴅ :</b> <code>{exp}</code>
         """
     await bot_msg.edit(text_done, disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(buttons))
