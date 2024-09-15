@@ -10,7 +10,7 @@ from pyromod import listen
 
 from miko.config import *
 
-from pytgcalls import GroupCall
+#from pytgcalls import GroupCall
 
 
 class ConnectionHandler(logging.Handler):
