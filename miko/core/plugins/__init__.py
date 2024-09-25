@@ -14,7 +14,7 @@ from miko.core.plugins.fnt import *
 from miko.core.plugins.gcs import *
 from miko.core.plugins.hlp import *
 from miko.core.plugins.ivt import *
-from miko.core.plugins.kng import *
+#from miko.core.plugins.kng import *
 from miko.core.plugins.lmt import *
 from miko.core.plugins.nts import *
 from miko.core.plugins.pyn import *
